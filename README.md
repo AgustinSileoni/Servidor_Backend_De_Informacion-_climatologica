@@ -1,4 +1,4 @@
-# Servidor_Backend_De_Informacion-_climatologica
+# Servidor_Backend_De_Informacion_Climatologica
 Deberá armar un servicio de consulta de estado del clima para varias ciudades de Argentina
 
 Para ello tomara la información del servicio meteorológico nacional en forma de archivo, lo procesara y generará una respuesta con formato Json que contenga la información del clima.
