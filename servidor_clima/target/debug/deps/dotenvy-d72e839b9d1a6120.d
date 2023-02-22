@@ -1,0 +1,11 @@
+/home/agustin/VSC-Projects/Rust/Servidor_Backend_De_Informacion_Climatologica/servidor_clima/target/debug/deps/dotenvy-d72e839b9d1a6120.rmeta: /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/lib.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/errors.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/find.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/iter.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/parse.rs
+
+/home/agustin/VSC-Projects/Rust/Servidor_Backend_De_Informacion_Climatologica/servidor_clima/target/debug/deps/libdotenvy-d72e839b9d1a6120.rlib: /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/lib.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/errors.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/find.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/iter.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/parse.rs
+
+/home/agustin/VSC-Projects/Rust/Servidor_Backend_De_Informacion_Climatologica/servidor_clima/target/debug/deps/dotenvy-d72e839b9d1a6120.d: /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/lib.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/errors.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/find.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/iter.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/parse.rs
+
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/lib.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/errors.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/find.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/iter.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenvy-0.15.6/src/parse.rs:
