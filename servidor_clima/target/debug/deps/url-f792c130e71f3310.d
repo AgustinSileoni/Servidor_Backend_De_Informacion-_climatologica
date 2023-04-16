@@ -1,0 +1,13 @@
+/home/agustin/VSC-Projects/Rust/Servidor_Backend_De_Informacion_Climatologica/servidor_clima/target/debug/deps/url-f792c130e71f3310.rmeta: /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/home/agustin/VSC-Projects/Rust/Servidor_Backend_De_Informacion_Climatologica/servidor_clima/target/debug/deps/url-f792c130e71f3310.d: /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs:

@@ -1,0 +1,1 @@
+SelectStatement<FromClause<servidor_clima::schema::estaciones::table>, query_builder::select_clause::DefaultSelectClause<FromClause<servidor_clima::schema::estaciones::table>>, query_builder::distinct_clause::NoDistinctClause, query_builder::where_clause::WhereClause<expression::grouped::Grouped<expression::operators::Eq<id_estacion, bool>>>>

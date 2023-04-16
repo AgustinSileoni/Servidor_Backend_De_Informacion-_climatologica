@@ -18,7 +18,7 @@ pub struct InformeClima{
     pub presion: f32,
 }
 
-#[derive(Queryable,Serialize, Deserialize)]
+#[derive(Queryable,Serialize, Deserialize,Clone)]
 pub struct Estacion{
     pub id_estacion: i32,
     pub nombre: String,

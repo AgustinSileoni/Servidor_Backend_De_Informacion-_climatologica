@@ -1,0 +1,13 @@
+/home/agustin/VSC-Projects/Rust/Servidor_Backend_De_Informacion_Climatologica/servidor_clima/target/debug/deps/net2-5ce47fff9dd6339c.rmeta: /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs
+
+/home/agustin/VSC-Projects/Rust/Servidor_Backend_De_Informacion_Climatologica/servidor_clima/target/debug/deps/net2-5ce47fff9dd6339c.d: /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs /home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs
+
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs:
+/home/agustin/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs:
